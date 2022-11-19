@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.img-beer {
+  width: 50px
+}
+
+
+.img-single-beer {
+  width: 200px
+}
+
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
